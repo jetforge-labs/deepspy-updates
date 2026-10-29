@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DeepSpy</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 29 Oct 2026 11:02:26 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>DeepSpy 1.0.0</h2>
+<ul>
+<li>First public release.</li>
+<li>Space: a treemap of where your disk space went.</li>
+<li>Junk: find and clean caches, logs and leftovers, with a preview before anything is removed.</li>
+<li>Apps: uninstall apps together with the files they leave behind.</li>
+<li>Exclusions with browser protection, so what matters is never touched.</li>
+<li>Empty Trash from the toolbar, with a confirmation.</li>
+<li>A first-run tour, and automatic updates with Sparkle (no data about your Mac is sent).</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/deepspy-updates/releases/download/v1.0.0/DeepSpy-1.0.0.dmg" length="3873287" type="application/octet-stream" sparkle:edSignature="1NiHmKQDUZ+Q5iFlIBRpFIcxZIq0MdbsYxwnpCCdRYs12rggu7EywDk4tf6j3njQsCgKt0q2/yiXdjZ4mQ2DDw=="/>
+        </item>
+    </channel>
+</rss>
