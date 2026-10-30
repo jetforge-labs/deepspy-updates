@@ -3,6 +3,25 @@
     <channel>
         <title>DeepSpy</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 30 Oct 2026 10:39:04 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>DeepSpy 1.1.0</h2>
+<ul>
+<li>Space: tiles now show category, share of the folder and item count.</li>
+<li>Space: hover a tile to show it in Finder, copy an AI prompt that investigates what the folder is and whether it is safe to delete, or move it to the Trash (with confirmation and the same safety checks as cleaning).</li>
+<li>The free space indicator now refreshes on its own, and right after a clean.</li>
+<li>Fixed: the highlighted tile could differ from the one under the pointer.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/deepspy-updates/releases/download/v1.1.0/DeepSpy-1.1.0.dmg" length="3920057" type="application/octet-stream" sparkle:edSignature="2qBSw+iCm0imAK+AhhZDvNN/QS50zBlBT6wkUQwszDqYICHfZwdHPhHdBDWCHDPPHhQqsm27Gw73Gngg4VDTDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/deepspy-updates/releases/download/v1.1.0/DeepSpy2-1.delta" sparkle:deltaFrom="1" length="362690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Uz0vFcgEuVhm/9H1sGO6McXxF7duF4TGq1LRaamm6R4oQBBBQsxkR1saohaucMAXLxvdDjjpnTVW+DgTWyA7AA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 29 Oct 2026 11:02:26 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
